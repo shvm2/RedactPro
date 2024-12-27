@@ -67,8 +67,8 @@ Follow these steps to run RedactPro locally:
 
 ## Screenshots
 
-![Homepage](https://drive.google.com/file/d/1s3Mpad77CQanD6IcHFNLT7JfS4VCbHgo/view?usp=sharing)
-![Redaction Popup](https://drive.google.com/file/d/1Ck-tuP0fAH5eeJxPhdrkdDvfk1NP3LK8/view?usp=drive_link)
+![Homepage](assets/images/homepage.png)
+![Redaction Popup](assets/images/popup.png)
 
 ## Contributing
 
